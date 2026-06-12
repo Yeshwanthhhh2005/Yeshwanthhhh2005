@@ -3,6 +3,7 @@
 **Full Stack & AI/ML Developer | Founder [botplexus.com](https://botplexus.com) | Freelancer**
 
 Building production-grade AI systems, SaaS platforms, and agentic workflows for clients across India, the US, and Europe. Started freelancing in my 2nd year of college. Currently running a live B2B SaaS product.
+                                                                                                        Email: yeshwanthkumarr2004@gmail.com
 
 ---
 
