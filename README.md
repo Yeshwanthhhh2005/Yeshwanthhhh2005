@@ -8,7 +8,7 @@ Building production-grade AI systems, SaaS platforms, and agentic workflows for 
 
 ## About Me
 
-I'm a 21-year-old developer from Tirupati, India. I taught myself frontend first, then moved into full-stack, and eventually into AI/ML and LLM engineering. While doing freelance work, I noticed that the AI chatbots on most company websites gave robotic, repetitive answers with zero real understanding of the business. That frustration became BotPlexus.
+I'm a 21-year-old developer from, India. I taught myself frontend first, then moved into full-stack, and eventually into AI/ML and LLM engineering. While doing freelance work, I noticed that the AI chatbots on most company websites gave robotic, repetitive answers with zero real understanding of the business. That frustration became BotPlexus.
 
 I do not just build for side projects. Every system I ship has real users, real traffic, or a real client behind it.
 
