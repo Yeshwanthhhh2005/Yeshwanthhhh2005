@@ -238,7 +238,7 @@ Real-time alertness monitoring using computer vision and facial landmark analysi
 ## Connect
 
 - Portfolio / SaaS: [botplexus.com](https://botplexus.com)
-- LinkedIn: [linkedin.com/in/yeshwanth-kumar](https://www.linkedin.com/in/yeshwanth-kumar-reddy-a6a27334b)
+- LinkedIn: [linkedin.com/in/yeshwanth-kumar-reddy](https://www.linkedin.com/in/yeshwanth-kumar-reddy-a6a27334b)
 - GitHub: [github.com/Yeshwanthhhh2005](https://github.com/Yeshwanthhhh2005)
 - Email: yeshwanthkumarr2004@gmail.com
 
